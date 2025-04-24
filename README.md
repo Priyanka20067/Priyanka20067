@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/priyanka20067/priyanka20067/main/assets/header.png" alt="header" width="800"/>
-  <!-- You can create this header image using Canva or similar tools -->
+ 
   
   # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanka
   
@@ -86,12 +85,7 @@
 
 <br/>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical" alt="github streak" />
-</div>
 
-<!-- Optional Activity Graph -->
-[![Priyanka's github activity graph](https://activity-graph.herokuapp.com/graph?username=priyanka20067&theme=react-dark)](https://github.com/priyanka20067)
 
 ---
 
