@@ -56,11 +56,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&show_total_contributions=true&cache_seconds=600" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&cache_seconds=600" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&cache_seconds=600" alt="GitHub Streak" />
 
 </div>
 
@@ -69,5 +69,5 @@
 <div align="center">
   <p>Thanks for visiting my profile! 😊 Feel free to check out my repositories and connect with me.</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer"/>
 </div>
