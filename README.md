@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanka  
+
 <em>A passionate frontend developer from India</em>  
 
 <p>
@@ -13,8 +14,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Shop Credit**
-- 🌱 I’m currently learning: **Unity and Express**
+- 🔭 I'm currently working on: **Shop Credit**
+- 🌱 I'm currently learning: **Unity and Express**
 - 💬 Ask me about: **React, JavaScript, HTML/CSS**
 - ⚡ Fun fact: **I love to code while listening to music**
 - 🎯 Goal: **Become a full-stack developer**
@@ -36,18 +37,18 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
 </p>
 
 ---
@@ -55,13 +56,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=300" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&cache_seconds=300" alt="Top Languages" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&cache_seconds=300" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -69,5 +69,5 @@
 <div align="center">
   <p>Thanks for visiting my profile! 😊 Feel free to check out my repositories and connect with me.</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
