@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanka  
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Priyanka  
 
 <em>A passionate frontend developer from India</em>  
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=priyanka20067&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpriyanka20067&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
 </p>
 
 </div>
@@ -24,12 +24,12 @@
 
 ## 🔗 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/priyanka-am-7b95722a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/priyanka20067" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -56,12 +56,24 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical" alt="GitHub Streak" width="48%" />
+  <!-- Primary Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="180em" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180em" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="50%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</div>
+<!-- Alternative Stats Services (uncomment if main ones don't work) -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats Alternative" height="180em" />
+</div>
+-->
+<!-- Additional detailed stats -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka20067&theme=redical&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -69,5 +81,5 @@
 <div align="center">
   <p>Thanks for visiting my profile! 😊 Feel free to check out my repositories and connect with me.</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
 </div>
