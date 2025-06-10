@@ -56,24 +56,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Primary Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="180em" />
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
+
 <div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka20067&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
-<!-- Alternative Stats Services (uncomment if main ones don't work) -->
-<!--
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats Alternative" height="180em" />
-</div>
--->
-<!-- Additional detailed stats -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka20067&theme=redical&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka20067&theme=radical&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
