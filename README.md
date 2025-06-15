@@ -4,9 +4,7 @@
 
 <em>A passionate frontend developer from India</em>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanka20067&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Profile Views" />
-</p>
+
 
 </div>
 
@@ -14,8 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on: **Shop Credit**
-- 🌱 I'm currently learning: **Unity and Express**
+- 🌱 I'm currently learning: **Unity and next**
 - 💬 Ask me about: **React, JavaScript, HTML/CSS**
 - ⚡ Fun fact: **I love to code while listening to music**
 - 🎯 Goal: **Become a full-stack developer**
@@ -42,13 +39,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 </p>
 
 ---
