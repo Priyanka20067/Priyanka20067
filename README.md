@@ -13,18 +13,6 @@
 
 
 ## 🚀 About Me
-
-```javascript
-const priyanka = {
-    currentFocus: "Development Projects",
-    learning: ["Unity", "Web3", "AI", "Cross-Platform Apps"],
-    collaboration: "React and Web3 projects",
-    expertise: ["React Native", "Flutter"],
-    pronouns: "she/her",
-    funFact: "I talk to AI more than real people sometimes 😅"
-};
-```
-
 - 🔭 Currently working on **Development Projects**
 - 🌱 Learning **Unity** and **Web3** technologies
 - 💡 Exploring **AI**, **Web3**, and **Cross-Platform Development**
