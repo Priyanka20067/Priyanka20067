@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -32,7 +32,7 @@ const priyanka = {
 - 💬 Ask me about **React Native** and **Flutter**
 - 🧠 Fun fact: **I talk to AI more than real people sometimes** 😅
 
----
+
 
 ## 📫 Let's Connect!
 
@@ -45,7 +45,7 @@ const priyanka = {
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +81,7 @@ const priyanka = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -98,7 +98,7 @@ const priyanka = {
 
 </div>
 
----
+
 
 ## 🎯 Current Goals
 
@@ -108,7 +108,7 @@ const priyanka = {
 - 🌐 Contribute to **open-source** projects
 - 📱 Create innovative **cross-platform** solutions
 
----
+
 
 ## 💭 Quote
 
@@ -118,12 +118,12 @@ const priyanka = {
 
 </div>
 
----
+
 
 <div align="center">
 
 ### Thanks for visiting! 🙏
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 
 </div>
