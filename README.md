@@ -70,21 +70,21 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka20067&layout=compact&langs_count=8&theme=radical"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka20067&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanka20067&theme=radical&hide_border=false)
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=priyanka20067&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
+
 
 
 
