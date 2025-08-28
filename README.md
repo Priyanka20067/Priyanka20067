@@ -74,16 +74,18 @@
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka20067&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=priyanka20067&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka20067&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=priyanka20067&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="180px" src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanka20067&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
+
+
 
 
 
