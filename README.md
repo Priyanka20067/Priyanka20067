@@ -79,11 +79,7 @@
 
 </div>
 
-<div align="center">
 
-  <img height="180px" src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanka20067&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-</div>
 
 
 
