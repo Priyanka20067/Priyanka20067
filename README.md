@@ -2,13 +2,15 @@
 
 <div align="center">
 
-### A Passionate Frontend Developer from India
+### A Passionate Fullstack Developer from India
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="160"/>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="120"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanka20067&label=Profile%20views&color=7f5af0&style=flat-square)
+
+
+
 
 </div>
 
