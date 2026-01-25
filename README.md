@@ -114,7 +114,8 @@ Core Web3 Skills:
 
 ---
 
-###Game Development
+
+## ░▒▓█ Game Development ░▒▓█
 
 ![Unity](https://img.shields.io/badge/Unity-020617?style=for-the-badge&logo=unity&logoColor=white)
 
